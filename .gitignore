@@ -1,0 +1,7 @@
+# Ignore sensitive files
+privkey.txt
+proxy.txt
+progress.json
+daily.log
+__pycache__/
+*.pyc
